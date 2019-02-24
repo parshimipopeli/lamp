@@ -114,7 +114,7 @@ $cfg['SaveDir'] = 'save';
  * default = 'en'
  */
 //$cfg['DefaultLang'] = 'en';
-$cfg['DefaultLang'] = 'zh_CN';
+$cfg['DefaultLang'] = 'fr_FR';
 
 /**
  * How many columns should be used for table display of a database?

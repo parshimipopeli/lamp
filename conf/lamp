@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-# Copyright (C) 2013 - 2019 Teddysun <i@teddysun.com>
-# 
 # This file is part of the LAMP script.
 #
 # LAMP is a powerful bash script for the installation of 
@@ -11,8 +9,7 @@
 #
 # System Required:  CentOS 6+ / Fedora28+ / Debian 8+ / Ubuntu 14+
 # Description:  Create, Delete, List Apache Virtual Host
-# Website:  https://lamp.sh
-# Github:   https://github.com/teddysun/lamp
+# Github:   https://github.com/Midship62/lamp
 
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
