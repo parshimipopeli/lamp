@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Copyright (C) 2013 - 2019 Teddysun <i@teddysun.com>
 # 
 # This file is part of the LAMP script.
 #
@@ -11,8 +10,7 @@
 #
 # System Required:  CentOS 6+ / Fedora28+ / Debian 8+ / Ubuntu 14+
 # Description:  Update LAMP(Linux + Apache + MySQL/MariaDB/Percona + PHP )
-# Website:  https://lamp.sh
-# Github:   https://github.com/teddysun/lamp
+# Github:   https://github.com/Midship62/lamp
 
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
@@ -44,8 +42,6 @@ display_menu(){
     echo
     echo "+-------------------------------------------------------------------+"
     echo "| Auto Update LAMP(Linux + Apache + MySQL/MariaDB/Percona + PHP )   |"
-    echo "| Intro: https://lamp.sh                                            |"
-    echo "| Author: Teddysun <i@teddysun.com>                                 |"
     echo "+-------------------------------------------------------------------+"
     echo
     rootness
